@@ -15,15 +15,11 @@
 - [ Overview](#-overview)
 - [ Directory Structure](#directory-structure)
 - [ Repository Structure](#repository-structure)
-- [ Modules](#-modules)
+- [ Modules](#modules)
 - [ Getting Started](#-getting-started)
   - [ Installation](#-installation)
   - [ Usage](#-usage)
-  - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
 - [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
 </details>
 <hr>
 
